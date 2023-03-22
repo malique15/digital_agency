@@ -175,3 +175,13 @@ nav ul li a {
     flex-basis: 25%;
     text-align: center;
 }
+
+.feature-col img {
+    width: 100px;
+}
+
+.feature-col h4 {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 400;
+}
